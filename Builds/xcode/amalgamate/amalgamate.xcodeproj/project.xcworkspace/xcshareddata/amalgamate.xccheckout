@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1052436A-F958-497D-97CF-7B4074C7C1A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>amalgamate</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA247031-01CC-4F38-8512-CA5A598A08AA</key>
+		<string>https://github.com/vinniefalco/Amalgamate.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Builds/xcode/amalgamate/amalgamate.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA247031-01CC-4F38-8512-CA5A598A08AA</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vinniefalco/Amalgamate.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA247031-01CC-4F38-8512-CA5A598A08AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA247031-01CC-4F38-8512-CA5A598A08AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Amalgamate</string>
+		</dict>
+	</array>
+</dict>
+</plist>
